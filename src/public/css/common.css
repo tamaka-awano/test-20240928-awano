@@ -1,0 +1,25 @@
+body {
+        font-family: "Alegreya", serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+        color: #7b5544;
+    }
+
+.header {
+    background: #ffffff;
+    border-bottom: solid 1px #dcdcdc;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+    text-align: center;
+}
+
+.header__logo {
+    color: #7b5544;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 30px;
+}
